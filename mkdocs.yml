@@ -1,1 +1,9 @@
-site_name: My Docs
+site_name: WiFi 安全手册
+site_description: WiFi Security
+repo_url: https://github.com/iternull-team/hack-wifi-security-cn/
+theme: readthedocs
+
+pages:
+- Welcome: index.md
+
+copyright: Copyright &copy; 2016 <a href="https://www.iternull.com/">IterNull</a>.
